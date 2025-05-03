@@ -1,58 +1,90 @@
 [
-    {
-        "roll_number": "23JD5A0201",
-        "subject_code": "R2022011",
-        "subject_name": "DC Machines and Transformers",
-        "internals": 17,
-        "grade": "E",
-        "credits": 3.0
-    },
-    {
-        "roll_number": "23JD5A0201",
-        "subject_code": "R2022012",
-        "subject_name": "Electro Magnetic Fields",
-        "internals": 18,
-        "grade": "F",
-        "credits": 3.0
-    },
-    {
-        "roll_number": "23JD5A0201",
-        "subject_code": "R2022013",
-        "subject_name": "Electrical Circuits Lab",
-        "internals": ㅤ,
-        "grade": "A",
-        "credits": 1.5
-    },
-    {
-        "roll_number": "23JD5A0201",
-        "subject_code": "R2022014",
-        "subject_name": "DC Machines and Transformers Lab",
-        "internals": ㅤ,
-        "grade": "A",
-        "credits": 1.5
-    },
-    {
-        "roll_number": "23JD5A0201",
-        "subject_code": "R2022015",
-        "subject_name": "Electronic Devices and Circuits Lab",
-        "internals": ㅤ,
-        "grade": "A",
-        "credits": 1.5
-    },
-    {
-        "roll_number": "23JD5A0201",
-        "subject_code": "R2022016",
-        "subject_name": "Skill Oriented Course I",
-        "internals": ㅤ,
-        "grade": "A",
-        "credits": 2.0
-    },
-    {
-        "roll_number": "23JD5A0201",
-        "subject_code": "R2022017",
-        "subject_name": "Professional Ethics & Human Values",
-        "internals": ㅤ,
-        "grade": "A+",
-        "credits": 0.0
-    }
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2021010A",
+    "subject_name": "COMMUNITY SERVICES PROJECT",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 4
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2021020",
+    "subject_name": "PROFESSIONAL ETHICS & HUMAN VALUES",
+    "internals": 28,
+    "grade": "COMPLE",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2021021",
+    "subject_name": "MATHEMATICS-IV",
+    "internals": 21,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2021022",
+    "subject_name": "ELECTRONIC DEVICES AND CIRCUITS",
+    "internals": 21,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2021024",
+    "subject_name": "ELECTRICAL CIRCUIT ANALYSIS-II",
+    "internals": 24,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2021026",
+    "subject_name": "DC MACHINES AND TRANSFORMERS",
+    "internals": 14,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2021025",
+    "subject_name": "ELECTRO MAGNETIC FIELDS",
+    "internals": 18,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2021027",
+    "subject_name": "ELECTRICAL CIRCUITS LAB",
+    "internals": 12,
+    "grade": "A",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2021028",
+    "subject_name": "DC MACHINES AND TRANSFORMERS LAB",
+    "internals": 12,
+    "grade": "A",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2021029",
+    "subject_name": "ELECTRONIC DEVICES AND CIRCUITS LAB",
+    "internals": 12,
+    "grade": "A",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2021029",
+    "subject_name": "SKILL ORIENTED COURSE(DESIGN OF ELECTRIC)",
+    "internals": 0,
+    "grade": "A",
+    "credits": 2
+  }
 ]
