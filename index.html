@@ -1,0 +1,59 @@
+<script>
+    document.addEventListener("contextmenu", function (e) {
+        e.preventDefault();
+    });
+
+    async function handleSubmit(event) {
+        event.preventDefault();
+        const rollNumber = document.getElementById('roll-number').value.toUpperCase();
+        const year = document.getElementById('year').value;
+        const semester = document.getElementById('semester').value;
+
+        if (year && semester) {
+            const fileName = `results${year}-${semester}.json`;
+            try {
+                const response = await fetch(fileName);
+                if (!response.ok) {
+                    throw new Error("File not found");
+                }
+                const data = await response.json();
+                const filteredResults = data.filter(result => result.roll_number === rollNumber);
+
+                if (filteredResults.length > 0) {
+                    displayResults(filteredResults);
+                } else {
+                    alert("No results found for the entered roll number.");
+                }
+            } catch (error) {
+                alert("Results not available for selected semester.");
+            }
+        } else {
+            alert("Please select both Year and Semester.");
+        }
+    }
+
+    function displayResults(results) {
+        const resultsDiv = document.getElementById('results');
+        resultsDiv.innerHTML = `
+            <h3>Results for ${results[0].roll_number}</h3>
+            <table border="5" style="width:100%; text-align: left; border-collapse: collapse;">
+                <tr>
+                    <th style="text-align:center;">Subject Code</th>
+                    <th style="text-align:center;">Subject Name</th>
+                    <th style="text-align:center;">Internals</th>
+                    <th style="text-align:center;">Grade</th>
+                    <th style="text-align:center;">Credits</th>
+                </tr>
+                ${results.map(result => `
+                    <tr>
+                        <td style="text-align:center;">${result.subject_code}</td>
+                        <td>${result.subject_name}</td>
+                        <td style="text-align:center;">${result.internals}</td>
+                        <td style="text-align:center;">${result.grade}</td>
+                        <td style="text-align:center;">${result.credits}</td>
+                    </tr>
+                `).join('')}
+            </table>
+        `;
+    }
+                  </script>
