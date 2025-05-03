@@ -1,0 +1,55 @@
+{
+  "htno": "23JD5A0201",
+  "semester": "3-1",
+  "results": [
+    {
+      "subcode": "R2012104",
+      "subname": "ELECTRICAL CIRCUIT ANALYSIS-II",
+      "internals": 24,
+      "grade": "F",
+      "credits": 0
+    },
+    {
+      "subcode": "R2012102",
+      "subname": "DC MACHINES AND TRANSFORMERS",
+      "internals": 14,
+      "grade": "F",
+      "credits": 0
+    },
+    {
+      "subcode": "R2012106",
+      "subname": "ELECTRO MAGNETIC FIELDS",
+      "internals": 18,
+      "grade": "F",
+      "credits": 0
+    },
+    {
+      "subcode": "R2012108",
+      "subname": "ELECTRICAL CIRCUITS LAB",
+      "internals": 12,
+      "grade": "A",
+      "credits": 1.5
+    },
+    {
+      "subcode": "R2012107",
+      "subname": "DC MACHINES AND TRANSFORMERS LAB",
+      "internals": 11,
+      "grade": "A",
+      "credits": 1.5
+    },
+    {
+      "subcode": "R2012103",
+      "subname": "ELECTRONIC DEVICES AND CIRCUITS LAB",
+      "internals": 0,
+      "grade": "A",
+      "credits": 1.5
+    },
+    {
+      "subcode": "R2012109",
+      "subname": "SKILL ORIENTED COURSE(DESIGN OF ELECTRIC)",
+      "internals": 0,
+      "grade": "A",
+      "credits": 2
+    }
+  ]
+}
