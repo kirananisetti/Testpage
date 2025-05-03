@@ -1,0 +1,58 @@
+[
+    {
+        "roll_number": "23JD5A0201",
+        "subject_code": "R2022011",
+        "subject_name": "DC Machines and Transformers",
+        "internals": null,
+        "grade": "E",
+        "credits": 3.0
+    },
+    {
+        "roll_number": "23JD5A0201",
+        "subject_code": "R2022012",
+        "subject_name": "Electro Magnetic Fields",
+        "internals": null,
+        "grade": "F",
+        "credits": 3.0
+    },
+    {
+        "roll_number": "23JD5A0201",
+        "subject_code": "R2022013",
+        "subject_name": "Electrical Circuits Lab",
+        "internals": null,
+        "grade": "A",
+        "credits": 1.5
+    },
+    {
+        "roll_number": "23JD5A0201",
+        "subject_code": "R2022014",
+        "subject_name": "DC Machines and Transformers Lab",
+        "internals": null,
+        "grade": "A",
+        "credits": 1.5
+    },
+    {
+        "roll_number": "23JD5A0201",
+        "subject_code": "R2022015",
+        "subject_name": "Electronic Devices and Circuits Lab",
+        "internals": null,
+        "grade": "A",
+        "credits": 1.5
+    },
+    {
+        "roll_number": "23JD5A0201",
+        "subject_code": "R2022016",
+        "subject_name": "Skill Oriented Course I",
+        "internals": null,
+        "grade": "A",
+        "credits": 2.0
+    },
+    {
+        "roll_number": "23JD5A0201",
+        "subject_code": "R2022017",
+        "subject_name": "Professional Ethics & Human Values",
+        "internals": null,
+        "grade": "A+",
+        "credits": 0.0
+    }
+]
