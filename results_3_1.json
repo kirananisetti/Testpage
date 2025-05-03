@@ -1,58 +1,79 @@
 [
-    {
-        "roll_number": "23JD5A0201",
-        "subject_code": "R2012104",
-        "subject_name": "ELECTRICAL CIRCUIT ANALYSIS-II",
-        "internals": 24,
-        "grade": "F",
-        "credits": 0
-    },
-    {
-        "roll_number": "23JD5A0201",
-        "subject_code": "R2012102",
-        "subject_name": "DC MACHINES AND TRANSFORMERS",
-        "internals": 14,
-        "grade": "F",
-        "credits": 0
-    },
-    {
-        "roll_number": "23JD5A0201",
-        "subject_code": "R2012106",
-        "subject_name": "ELECTRO MAGNETIC FIELDS",
-        "internals": 18,
-        "grade": "F",
-        "credits": 0
-    },
-    {
-        "roll_number": "23JD5A0201",
-        "subject_code": "R2012108",
-        "subject_name": "ELECTRICAL CIRCUITS LAB",
-        "internals": 12,
-        "grade": "A",
-        "credits": 1.5
-    },
-    {
-        "roll_number": "23JD5A0201",
-        "subject_code": "R2012107",
-        "subject_name": "DC MACHINES AND TRANSFORMERS LAB",
-        "internals": 11,
-        "grade": "A",
-        "credits": 1.5
-    },
-    {
-        "roll_number": "23JD5A0201",
-        "subject_code": "R2012103",
-        "subject_name": "ELECTRONIC DEVICES AND CIRCUITS LAB",
-        "internals": 0,
-        "grade": "A",
-        "credits": 1.5
-    },
-    {
-        "roll_number": "23JD5A0201",
-        "subject_code": "R2012109",
-        "subject_name": "SKILL ORIENTED COURSE(DESIGN OF ELECTRIC)",
-        "internals": 0,
-        "grade": "A",
-        "credits": 2
-    }
+  {
+    "subcode": "R2031021",
+    "subname": "POWER SYSTEMS-II",
+    "internals": 19,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "subcode": "R2031022",
+    "subname": "POWER ELECTRONICS",
+    "internals": 14,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "subcode": "R2031023",
+    "subname": "CONTROL SYSTEMS",
+    "internals": 17,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "subcode": "R2031024",
+    "subname": "CONTROL SYSTEMS LAB",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "subcode": "R2031025",
+    "subname": "POWER ELECTRONICS LAB",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "subcode": "R2031026",
+    "subname": "SOFT SKILL COURSE:EMPLOYABILITY SKILLS",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 2
+  },
+  {
+    "subcode": "R2031027",
+    "subname": "ENVIRONMENTAL SCIENCE",
+    "internals": 28,
+    "grade": "COMPLE",
+    "credits": 0
+  },
+  {
+    "subcode": "R2031028",
+    "subname": "SUMMER INTERNSHIP 2 MONTHS (MANDATORY) A",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "subcode": "R2031029",
+    "subname": "UTILIZATION OF ELECTRICAL ENERGY",
+    "internals": 20,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "subcode": "R203105H",
+    "subname": "DATA BASE MANAGEMENT SYSTEMS",
+    "internals": 20,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "subcode": "R2031021",
+    "subname": "POWER SYSTEMS-II",
+    "internals": 23,
+    "grade": "F",
+    "credits": 0
+  }
 ]
