@@ -1,22 +1,6 @@
 [
   {
     "roll_number": "23JD5A0201",
-    "subject_code": "R2021010A",
-    "subject_name": "COMMUNITY SERVICES PROJECT",
-    "internals": 0,
-    "grade": "A+",
-    "credits": 4
-  },
-  {
-    "roll_number": "23JD5A0201",
-    "subject_code": "R2021020",
-    "subject_name": "PROFESSIONAL ETHICS & HUMAN VALUES",
-    "internals": 28,
-    "grade": "COMPLE",
-    "credits": 0
-  },
-  {
-    "roll_number": "23JD5A0201",
     "subject_code": "R2021021",
     "subject_name": "MATHEMATICS-IV",
     "internals": 21,
@@ -29,7 +13,7 @@
     "subject_name": "ELECTRONIC DEVICES AND CIRCUITS",
     "internals": 21,
     "grade": "E",
-    "credits": 0
+    "credits": 3
   },
   {
     "roll_number": "23JD5A0201",
@@ -53,7 +37,7 @@
     "subject_name": "ELECTRO MAGNETIC FIELDS",
     "internals": 18,
     "grade": "E",
-    "credits": 0
+    "credits": 3
   },
   {
     "roll_number": "23JD5A0201",
@@ -86,5 +70,13 @@
     "internals": 0,
     "grade": "A",
     "credits": 2
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2021020",
+    "subject_name": "PROFESSIONAL ETHICS & HUMAN VALUES",
+    "internals": 28,
+    "grade": "COMPLE",
+    "credits": 0
   }
 ]
