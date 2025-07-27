@@ -1,0 +1,964 @@
+[
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 23,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 23,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2032023",
+    "subject_name": "POWER SYSTEM ANALYSIS",
+    "internals": 19,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0202",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 20,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0202",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 20,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0203",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 23,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0203",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 23,
+    "grade": "D",
+    "credits": 3
+  }
+]
+[
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 23,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 23,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2032023",
+    "subject_name": "POWER SYSTEM ANALYSIS",
+    "internals": 19,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2032024",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2032025",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS LAB",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2032026",
+    "subject_name": "POWER SYSTEMS AND SIMULATION LAB",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2032027",
+    "subject_name": "SKILL ADVANCED COURSE: MACHINE LEARNING",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 2
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R2032028",
+    "subject_name": "RESEARCH METHODOLOGY",
+    "internals": 29,
+    "grade": "COMPLE",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R203202D",
+    "subject_name": "SWITCHGEAR AND PROTECTION",
+    "internals": 20,
+    "grade": "C",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R203205K",
+    "subject_name": "COMPUTER NETWORKS",
+    "internals": 23,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0202",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 20,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0202",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 20,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0202",
+    "subject_code": "R2032023",
+    "subject_name": "POWER SYSTEM ANALYSIS",
+    "internals": 20,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0202",
+    "subject_code": "R2032024",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0202",
+    "subject_code": "R2032025",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS LAB",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0202",
+    "subject_code": "R2032026",
+    "subject_name": "POWER SYSTEMS AND SIMULATION LAB",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0202",
+    "subject_code": "R2032027",
+    "subject_name": "SKILL ADVANCED COURSE: MACHINE LEARNING",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 2
+  },
+  {
+    "roll_number": "23JD5A0202",
+    "subject_code": "R2032028",
+    "subject_name": "RESEARCH METHODOLOGY",
+    "internals": 27,
+    "grade": "COMPLE",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0202",
+    "subject_code": "R203202D",
+    "subject_name": "SWITCHGEAR AND PROTECTION",
+    "internals": 20,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0202",
+    "subject_code": "R203205K",
+    "subject_name": "COMPUTER NETWORKS",
+    "internals": 22,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0203",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 23,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0203",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 23,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0203",
+    "subject_code": "R2032023",
+    "subject_name": "POWER SYSTEM ANALYSIS",
+    "internals": 18,
+    "grade": "F",
+    "credits": 0
+  }
+]
+[
+  {
+    "roll_number": "23JD5A0203",
+    "subject_code": "R2032024",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0203",
+    "subject_code": "R2032025",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS LAB",
+    "internals": 15,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0203",
+    "subject_code": "R2032026",
+    "subject_name": "POWER SYSTEMS AND SIMULATION LAB",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0203",
+    "subject_code": "R2032027",
+    "subject_name": "SKILL ADVANCED COURSE: MACHINE LEARNING",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 2
+  },
+  {
+    "roll_number": "23JD5A0203",
+    "subject_code": "R2032028",
+    "subject_name": "RESEARCH METHODOLOGY",
+    "internals": 29,
+    "grade": "COMPLE",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0203",
+    "subject_code": "R203202D",
+    "subject_name": "SWITCHGEAR AND PROTECTION",
+    "internals": 22,
+    "grade": "C",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0203",
+    "subject_code": "R203205K",
+    "subject_name": "COMPUTER NETWORKS",
+    "internals": 23,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0204",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 24,
+    "grade": "C",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0204",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 23,
+    "grade": "C",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0204",
+    "subject_code": "R2032023",
+    "subject_name": "POWER SYSTEM ANALYSIS",
+    "internals": 19,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0204",
+    "subject_code": "R2032024",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0204",
+    "subject_code": "R2032025",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS LAB",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0204",
+    "subject_code": "R2032026",
+    "subject_name": "POWER SYSTEMS AND SIMULATION LAB",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0204",
+    "subject_code": "R2032027",
+    "subject_name": "SKILL ADVANCED COURSE: MACHINE LEARNING",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 2
+  },
+  {
+    "roll_number": "23JD5A0204",
+    "subject_code": "R2032028",
+    "subject_name": "RESEARCH METHODOLOGY",
+    "internals": 27,
+    "grade": "COMPLE",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0204",
+    "subject_code": "R203202D",
+    "subject_name": "SWITCHGEAR AND PROTECTION",
+    "internals": 21,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0204",
+    "subject_code": "R203205K",
+    "subject_name": "COMPUTER NETWORKS",
+    "internals": 22,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0205",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 21,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0205",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 21,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0205",
+    "subject_code": "R2032023",
+    "subject_name": "POWER SYSTEM ANALYSIS",
+    "internals": 17,
+    "grade": "F",
+    "credits": 0
+  }
+]
+[
+  {
+    "roll_number": "23JD5A0205",
+    "subject_code": "R2032024",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0205",
+    "subject_code": "R2032025",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS LAB",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0205",
+    "subject_code": "R2032026",
+    "subject_name": "POWER SYSTEMS AND SIMULATION LAB",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0205",
+    "subject_code": "R2032027",
+    "subject_name": "SKILL ADVANCED COURSE: MACHINE LEARNING",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 2
+  },
+  {
+    "roll_number": "23JD5A0205",
+    "subject_code": "R2032028",
+    "subject_name": "RESEARCH METHODOLOGY",
+    "internals": 29,
+    "grade": "COMPLE",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0205",
+    "subject_code": "R203202D",
+    "subject_name": "SWITCHGEAR AND PROTECTION",
+    "internals": 18,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0205",
+    "subject_code": "R203205K",
+    "subject_name": "COMPUTER NETWORKS",
+    "internals": 22,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0206",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 23,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0206",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 23,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0206",
+    "subject_code": "R2032023",
+    "subject_name": "POWER SYSTEM ANALYSIS",
+    "internals": 18,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0206",
+    "subject_code": "R2032024",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0206",
+    "subject_code": "R2032025",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS LAB",
+    "internals": 13,
+    "grade": "A",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0206",
+    "subject_code": "R2032026",
+    "subject_name": "POWER SYSTEMS AND SIMULATION LAB",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0206",
+    "subject_code": "R2032027",
+    "subject_name": "SKILL ADVANCED COURSE: MACHINE LEARNING",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 2
+  },
+  {
+    "roll_number": "23JD5A0206",
+    "subject_code": "R2032028",
+    "subject_name": "RESEARCH METHODOLOGY",
+    "internals": 28,
+    "grade": "COMPLE",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0206",
+    "subject_code": "R203202D",
+    "subject_name": "SWITCHGEAR AND PROTECTION",
+    "internals": 19,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0206",
+    "subject_code": "R203205K",
+    "subject_name": "COMPUTER NETWORKS",
+    "internals": 24,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0207",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 24,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0207",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 22,
+    "grade": "C",
+    "credits": 3
+  }
+]
+[
+  {
+    "roll_number": "23JD5A0207",
+    "subject_code": "R2032023",
+    "subject_name": "POWER SYSTEM ANALYSIS",
+    "internals": 19,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0207",
+    "subject_code": "R2032024",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0207",
+    "subject_code": "R2032025",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS LAB",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0207",
+    "subject_code": "R2032026",
+    "subject_name": "POWER SYSTEMS AND SIMULATION LAB",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0207",
+    "subject_code": "R2032027",
+    "subject_name": "SKILL ADVANCED COURSE: MACHINE LEARNING",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 2
+  },
+  {
+    "roll_number": "23JD5A0207",
+    "subject_code": "R2032028",
+    "subject_name": "RESEARCH METHODOLOGY",
+    "internals": 27,
+    "grade": "COMPLE",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0207",
+    "subject_code": "R203202D",
+    "subject_name": "SWITCHGEAR AND PROTECTION",
+    "internals": 21,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0207",
+    "subject_code": "R203205K",
+    "subject_name": "COMPUTER NETWORKS",
+    "internals": 22,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0208",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 21,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0208",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 21,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0208",
+    "subject_code": "R2032023",
+    "subject_name": "POWER SYSTEM ANALYSIS",
+    "internals": 17,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0208",
+    "subject_code": "R2032024",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0208",
+    "subject_code": "R2032025",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS LAB",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0208",
+    "subject_code": "R2032026",
+    "subject_name": "POWER SYSTEMS AND SIMULATION LAB",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0208",
+    "subject_code": "R2032027",
+    "subject_name": "SKILL ADVANCED COURSE: MACHINE LEARNING",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 2
+  },
+  {
+    "roll_number": "23JD5A0208",
+    "subject_code": "R2032028",
+    "subject_name": "RESEARCH METHODOLOGY",
+    "internals": 29,
+    "grade": "COMPLE",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0208",
+    "subject_code": "R203202D",
+    "subject_name": "SWITCHGEAR AND PROTECTION",
+    "internals": 18,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0208",
+    "subject_code": "R203205K",
+    "subject_name": "COMPUTER NETWORKS",
+    "internals": 22,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0209",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 23,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0209",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 23,
+    "grade": "E",
+    "credits": 3
+  }
+]
+[
+  {
+    "roll_number": "23JD5A0209",
+    "subject_code": "R2032023",
+    "subject_name": "POWER SYSTEM ANALYSIS",
+    "internals": 18,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0209",
+    "subject_code": "R2032024",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0209",
+    "subject_code": "R2032025",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS LAB",
+    "internals": 13,
+    "grade": "A",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0209",
+    "subject_code": "R2032026",
+    "subject_name": "POWER SYSTEMS AND SIMULATION LAB",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0209",
+    "subject_code": "R2032027",
+    "subject_name": "SKILL ADVANCED COURSE: MACHINE LEARNING",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 2
+  },
+  {
+    "roll_number": "23JD5A0209",
+    "subject_code": "R2032028",
+    "subject_name": "RESEARCH METHODOLOGY",
+    "internals": 28,
+    "grade": "COMPLE",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0209",
+    "subject_code": "R203202D",
+    "subject_name": "SWITCHGEAR AND PROTECTION",
+    "internals": 19,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0209",
+    "subject_code": "R203205K",
+    "subject_name": "COMPUTER NETWORKS",
+    "internals": 24,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0210",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 24,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0210",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 22,
+    "grade": "C",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0210",
+    "subject_code": "R2032023",
+    "subject_name": "POWER SYSTEM ANALYSIS",
+    "internals": 17,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0210",
+    "subject_code": "R2032024",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 13,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0210",
+    "subject_code": "R2032025",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS LAB",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0210",
+    "subject_code": "R2032026",
+    "subject_name": "POWER SYSTEMS AND SIMULATION LAB",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0210",
+    "subject_code": "R2032027",
+    "subject_name": "SKILL ADVANCED COURSE: MACHINE LEARNING",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 2
+  },
+  {
+    "roll_number": "23JD5A0210",
+    "subject_code": "R2032028",
+    "subject_name": "RESEARCH METHODOLOGY",
+    "internals": 29,
+    "grade": "COMPLE",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0210",
+    "subject_code": "R203202D",
+    "subject_name": "SWITCHGEAR AND PROTECTION",
+    "internals": 20,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0210",
+    "subject_code": "R203205K",
+    "subject_name": "COMPUTER NETWORKS",
+    "internals": 22,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0211",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 22,
+    "grade": "C",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0211",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 23,
+    "grade": "C",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0211",
+    "subject_code": "R2032023",
+    "subject_name": "POWER SYSTEM ANALYSIS",
+    "internals": 17,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0211",
+    "subject_code": "R2032024",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0211",
+    "subject_code": "R2032025",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS LAB",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0211",
+    "subject_code": "R2032026",
+    "subject_name": "POWER SYSTEMS AND SIMULATION LAB",
+    "internals": 14,
+    "grade": "A+",
+    "credits": 1.5
+  },
+  {
+    "roll_number": "23JD5A0211",
+    "subject_code": "R2032027",
+    "subject_name": "SKILL ADVANCED COURSE: MACHINE LEARNING",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 2
+  },
+  {
+    "roll_number": "23JD5A0211",
+    "subject_code": "R2032028",
+    "subject_name": "RESEARCH METHODOLOGY",
+    "internals": 29,
+    "grade": "COMPLE",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0211",
+    "subject_code": "R203202D",
+    "subject_name": "SWITCHGEAR AND PROTECTION",
+    "internals": 21,
+    "grade": "C",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0211",
+    "subject_code": "R203205K",
+    "subject_name": "COMPUTER NETWORKS",
+    "internals": 21,
+    "grade": "F",
+    "credits": 0
+  },
+  {
+    "roll_number": "23JD5A0212",
+    "subject_code": "R2032021",
+    "subject_name": "MICROPROCESSORS AND MICROCONTROLLERS",
+    "internals": 23,
+    "grade": "C",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0212",
+    "subject_code": "R2032022",
+    "subject_name": "ELECTRICAL MEASUREMENTS AND INSTRUMENTAT",
+    "internals": 24,
+    "grade": "D",
+    "credits": 3
+  }
+]
