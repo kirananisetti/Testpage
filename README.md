@@ -38,4 +38,4 @@ The backend is handled using *JSON files hosted on Vercel*, which makes it fast,
 ---
 
 ## 👨‍💻 Author
--© Designed, Developed, and Maintained by Department of **E.E.E**
+-© Designed, Developed, and Maintained by Department of **⚡E.E.E**
