@@ -23,7 +23,7 @@ The backend is handled using *JSON files hosted on Vercel*, which makes it fast,
 ---
 
 ## 🚀 How It Works:
-1. User enters their *Roll Number, selects **Year* and *Semester*.
+1. User enters their **Roll Number**, selects **Year** and **Semester**.
 2. JavaScript dynamically fetches the corresponding JSON file:
 
 ## 🌐 Live Demo
