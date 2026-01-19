@@ -1,0 +1,66 @@
+[
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R204101I",
+    "subject_name": "UNIVERSAL HUMAN VALUES 2: UNDERSTANDING",
+    "internals": 28,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R204102C",
+    "subject_name": "FLEXIBLE ALTERNATING CURRENT TRANSMISSION",
+    "internals": 23,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R204102G",
+    "subject_name": "HIGH VOLTAGE ENGINEERING",
+    "internals": 22,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R204102I",
+    "subject_name": "POWER SYSTEM OPERATION AND CONTROL",
+    "internals": 23,
+    "grade": "E",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R204102Q",
+    "subject_name": "SKILL ADVANCED COURSE MACHINE LEARNING W",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 2
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R204102R",
+    "subject_name": "INDUSTRIAL / RESEARCH INTERNSHIP 2 MONTHS",
+    "internals": 0,
+    "grade": "A+",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R204104N",
+    "subject_name": "CONSUMER ELECTRONICS",
+    "internals": 24,
+    "grade": "D",
+    "credits": 3
+  },
+  {
+    "roll_number": "23JD5A0201",
+    "subject_code": "R204105Z",
+    "subject_name": "INTRODUCTION TO MACHINE LEARNING",
+    "internals": 23,
+    "grade": "E",
+    "credits": 3
+  }
+]
