@@ -1,9 +1,161 @@
 [
   {
+    "roll_number": "22JD1A0201",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 60,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "22JD1A0202",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 57,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "22JD1A0203",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 58,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "22JD1A0204",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 60,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "22JD1A0205",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 59,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "22JD1A0206",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 57,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "22JD1A0207",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 60,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "22JD1A0208",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 58,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "22JD1A0211",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 59,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
     "roll_number": "23JD5A0201",
     "subject_code": "R204202P",
     "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
     "internals": 57,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "23JD5A0202",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 57,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "23JD5A0203",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 60,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "23JD5A0207",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 58,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "23JD5A0208",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 58,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "23JD5A0209",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 59,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "23JD5A0210",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 57,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "23JD5A0211",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 58,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "23JD5A0213",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 60,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "23JD5A0214",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 57,
+    "grade": "A+",
+    "credits": 8.0
+  },
+  {
+    "roll_number": "23JD5A0215",
+    "subject_code": "R204202P",
+    "subject_name": "PROJECT WORK/SEMINAR & INTERNSHIP IN INDUSTRY",
+    "internals": 59,
     "grade": "A+",
     "credits": 8.0
   }
